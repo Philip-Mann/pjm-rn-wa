@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "pjm-weather-app-rn",
+    "slug": "pjm-weather-app-rn",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
